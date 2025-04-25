@@ -1,0 +1,3 @@
+Generate expressions via BMS using NGuyen^c Dataset
+Train ProbTree using the generated expressions via KL Divergence improvement
+Generate new expressions with the BMS that were not used to trian the tree, compare the probabilites of generating them with the tree and the BMS
